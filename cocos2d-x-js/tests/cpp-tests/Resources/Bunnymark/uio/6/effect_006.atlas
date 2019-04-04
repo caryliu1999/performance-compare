@@ -1,0 +1,55 @@
+
+effect_006.png
+size: 935,246
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Daoguang_00000
+  rotate: false
+  xy: 2, 4
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+Daoguang_00001
+  rotate: false
+  xy: 244, 4
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+Daoguang_00002
+  rotate: false
+  xy: 486, 4
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+lizi_00007_00000
+  rotate: false
+  xy: 728, 118
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+zhuahen_00000
+  rotate: true
+  xy: 728, 39
+  size: 77, 120
+  orig: 77, 120
+  offset: 0, 0
+  index: -1
+zhuahen_00001
+  rotate: false
+  xy: 856, 124
+  size: 77, 120
+  orig: 77, 120
+  offset: 0, 0
+  index: -1
+zhuahen_00002
+  rotate: false
+  xy: 856, 2
+  size: 77, 120
+  orig: 77, 120
+  offset: 0, 0
+  index: -1

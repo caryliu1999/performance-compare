@@ -1,0 +1,55 @@
+
+effect_003.png
+size: 268,507
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aoe_splatterran2_orange_1_00000
+  rotate: false
+  xy: 2, 188
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+c_00000
+  rotate: false
+  xy: 2, 321
+  size: 255, 184
+  orig: 255, 184
+  offset: 0, 0
+  index: -1
+flare2b_orange_00000
+  rotate: false
+  xy: 135, 188
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+glow_hot_yellow1_00000
+  rotate: false
+  xy: 167, 12
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+heroes_triforce1_purple
+  rotate: false
+  xy: 2, 55
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+光线_00000
+  rotate: false
+  xy: 2, 2
+  size: 163, 51
+  orig: 163, 51
+  offset: 0, 0
+  index: -1
+粒子_00000
+  rotate: false
+  xy: 135, 79
+  size: 122, 107
+  orig: 122, 107
+  offset: 0, 0
+  index: -1
